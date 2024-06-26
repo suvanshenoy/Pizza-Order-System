@@ -1,0 +1,11 @@
+{
+  "name": "pizza-order",
+  "scripts": {
+    "rpy": "bun run-py",
+    "run-py": "clear;python3 main.py",
+    "ipkgs": "bun install-packages",
+    "install-packages": "clear;pip install -r requirements.txt",
+    "cenv": "bun create-env",
+    "create-env": "clear;python3 -m venv venv"
+  }
+}
