@@ -13,7 +13,7 @@
  ### install the required dependencies:
 
      
-     [your_package_manager] run ipkgs or [your_package_manager] run install-pacakges
+     [your_package_manager] run ipkgs or [your_package_manager] run install-packages
      
   ### run the project:
 
