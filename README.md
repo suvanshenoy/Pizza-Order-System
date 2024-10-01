@@ -1,21 +1,21 @@
-# Pizza Order System:
+## Pizza Order System:
 
-### To run the project:
+#### To run the project:
 
 - install a package manager like npm or bun or pnpm
 
 - then use the below commands :
- ### first create a virtualenvironment:
+#### First create a virtualenvironment:
 
      
      [your_package_manager] run cenv or [your_package_manager] run create_env
      
- ### install the required dependencies:
+#### install the required dependencies:
 
      
      [your_package_manager] run ipkgs or [your_package_manager] run install-packages
      
-  ### run the project:
+#### Run the project:
 
       
       python3 main.py
